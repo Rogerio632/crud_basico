@@ -13,17 +13,17 @@
     <br><br>
 
     <label>CPF:</label>
-    <input type="text" name="cpf_cliente">
+    <input type="text" name="cpf_cliente" placeholder="digite seu CPF">
 
     <br><br>
 
     <label>E-mail:</label>
-    <input type="text" name="email_cliente">
+    <input type="text" name="email_cliente" placeholder="digite seu nome">
 
     <br><br>
 
     <label>Telefone:</label>
-    <input type="text" name="tel_cliente">
+    <input type="text" name="tel_cliente" placeholder="digite seu telefone">
 
     <br><br>
 
